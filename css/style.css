@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.fondo{
+    background-color: rgba(146, 218, 99, 0.856);
+}
+
+html{
+    font-size: 62.5%;
+}
+
+.carousel{
+    padding: 1rem 5rem;
+    padding-bottom: 10rem;
+}
+
+footer{
+background-color: rgb(0, 0, 0, 0.09);
+display: flex;
+margin-top: 1rem;
+
+}
+
+.menu-footer li{
+    position: relative;
+    font-size: 1,5rem;
+    
+}
